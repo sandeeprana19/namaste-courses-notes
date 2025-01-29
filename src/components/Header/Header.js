@@ -3,12 +3,12 @@ import { Link } from "react-router-dom";
 
 const Header = () => {
   return (
-    <header className="p-5 shadow-[0rem_0.3125rem_0.625rem_0rem_rgba(0,0,0,0.27)] fixed top-0 start-0 w-full z-50 bg-white box-border">
-      <div className="2xl:w-[90rem] w-[73.125rem] mx-auto">
+    <header className="py-5 px-4 lg:px-0 shadow-[0rem_0.3125rem_0.625rem_0rem_rgba(0,0,0,0.3)] fixed top-0 start-0 w-full z-50 bg-white dark:bg-[#191e24] box-border">
+      <div className="lg:w-6/12 w-full mx-auto">
         <ul className="list-none ps-0 mt-0 mb-0 flex items-center gap-5">
           <li>
             <Link
-              className="text-base no-underline text-black hover:text-[#f25925] transition-all"
+              className="text-base no-underline text-black dark:text-white hover:text-[#f25925] transition-all"
               to="/"
             >
               Namaste JavaScript
@@ -16,7 +16,7 @@ const Header = () => {
           </li>
           <li>
             <Link
-              className="text-base no-underline text-black hover:text-[#f25925] transition-all"
+              className="text-base no-underline text-black dark:text-white hover:text-[#f25925] transition-all"
               to="/react"
             >
               Namaste React

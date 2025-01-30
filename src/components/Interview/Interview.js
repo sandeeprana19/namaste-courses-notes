@@ -247,10 +247,10 @@ const Interview = () => {
                 1. Find missing elements like 3 and 9 into this array: let arr =
                 [1,2,4,5,6,7,8,10]?
               </div>
-              <div className="collapse-content">
+              <div className="collapse-content overflow-x-auto">
                 <div className="flex items-start">
                   <p>A.</p>
-                  <pre>
+                  <pre className="relative bottom-[1.4375rem] right-[10.625rem]">
                     <code>
                       {`
                       let arr = [1, 2, 4, 5, 6, 7, 8, 10];

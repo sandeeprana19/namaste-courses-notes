@@ -6,7 +6,7 @@ const Body = () => {
   return (
     <>
       <Header />
-      <div className="pt-24">
+      <div className="pt-28">
         <Outlet />
       </div>
     </>

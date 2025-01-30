@@ -2,7 +2,7 @@ import React from "react";
 
 const NamasteJavascript = () => {
   return (
-    <div className="lg:w-6/12 w-full mx-auto flex flex-wrap gap-y-4 px-4 px-5 lg:px-0">
+    <div className="lg:w-6/12 w-full mx-auto flex flex-wrap gap-y-4 px-4 lg:px-0">
       <div className="collapse collapse-arrow bg-base-200">
         <input type="radio" name="namaste-javascript" defaultChecked />
         <div className="collapse-title text-xl font-medium">

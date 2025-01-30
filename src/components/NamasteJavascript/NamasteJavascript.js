@@ -43,9 +43,9 @@ const NamasteJavascript = () => {
         <div className="collapse-title text-xl font-medium">
           3. Define JavaScript?
         </div>
-        <div className="collapse-content">
+        <div className="collapse-content flex flex-col gap-y-2">
           <p>A. JavaScript is a synchronous single-threaded language.</p>
-          <p className="py-2">
+          <p>
             So when we say single-threaded that means javascript can only
             execute one command at a time.
           </p>
@@ -80,7 +80,7 @@ const NamasteJavascript = () => {
           on the above example or How the above whole javascript code is run
           behind the scene?
         </div>
-        <div className="collapse-content">
+        <div className="collapse-content flex flex-col gap-y-2">
           <p>
             A. So when we run the whole above given javascript code then a
             global execution context is created which is like a big box and
@@ -89,7 +89,7 @@ const NamasteJavascript = () => {
             first phase is known as creation phase which is also known as memory
             creation phase and it is very critical phase.
           </p>
-          <p className="pt-2">
+          <p>
             So if we have the above given javascript code in the first phase of
             memory creation javascript skims through the whole program line by
             line and it will allocate memory to all the variables & functions.

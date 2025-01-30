@@ -2,6 +2,7 @@ import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import "./App.css";
 import Body from "./components/Body/Body";
 import { lazy, Suspense } from "react";
+import Interview from "./components/Interview/Interview";
 
 const App = () => {
   const NamasteJavascript = lazy(() =>
@@ -29,6 +30,14 @@ const App = () => {
           element: (
             <Suspense fallback={<h1>Loading...</h1>}>
               <NamasteReact />
+            </Suspense>
+          ),
+        },
+        {
+          path: "/interview",
+          element: (
+            <Suspense fallback={<h1>Loading...</h1>}>
+              <Interview />
             </Suspense>
           ),
         },

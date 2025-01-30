@@ -3,7 +3,7 @@ import React from "react";
 const Interview = () => {
   return (
     <div className="lg:w-6/12 w-full mx-auto px-5 lg:px-0">
-      <div className="flex flex-col gap-y-8">
+      <div className="flex flex-col gap-y-5">
         <div className="flex flex-col gap-y-4">
           <h1 className="text-2xl font-bold text-white">React Q&A</h1>
           <div className="flex flex-col gap-y-4">
@@ -238,6 +238,7 @@ const Interview = () => {
             </div>
           </div>
         </div>
+        <div className="divider"></div>
         <div className="flex flex-col gap-y-4">
           <h1 className="text-2xl font-bold text-white">JavaScript Q&A</h1>
           <div className="flex flex-col gap-y-4">
@@ -297,6 +298,7 @@ const Interview = () => {
             </div>
           </div>
         </div>
+        <div className="divider"></div>
         <div className="flex flex-col gap-y-4">
           <h1 className="text-2xl font-bold text-white">HTML Q&A</h1>
           <div className="flex flex-col gap-y-4">

@@ -87,27 +87,29 @@ const Interview = () => {
                     are mounting phase, updating phase & unmounting phase. And
                     all of these phases have render phase & commit phase. So
                     first of all, react starts with the lifecycle methods of
-                    parent component so it starts with the render phase first
-                    where parent constructor is called & then parent render is
-                    called & then when react finds that parent is rendering 2
-                    similar child components then react batches the render phase
-                    of both child components. So now react start the lifecycle
-                    methods of 1st & 2nd child components respectively where
-                    first child component constructor will be called & then
-                    first child component render will be called & then 2nd child
-                    component constructor will be called & then 2nd child
-                    component render will be called so this is how the render
-                    phase will be completed for both parent & child class based
-                    components.
+                    parent class component so it starts with the render phase
+                    first where parent class component constructor is called &
+                    then parent class component render is called & then when
+                    react finds that parent class component is rendering 2
+                    similar child class components then react batches the render
+                    phase of both child class components. So now react start the
+                    lifecycle methods of 1st & 2nd child class components
+                    respectively where first child class component constructor
+                    will be called & then first child component render will be
+                    called & then 2nd child class component constructor will be
+                    called & then 2nd child class component render will be
+                    called so this is how the render phase will be completed for
+                    both parent & child class components.
                   </p>
                   <p>
                     And then react starts the commit phase where it batches the
-                    commit phase of both child components & then react updates
-                    the DOM in a single phase for both child components & then
-                    1st child componentDidMount will be called & then 2nd child
-                    componentDidMount will be called & then parent
-                    componentDidMount will be called. So this is how the
-                    mounting phase of the react lifecycle methods work.
+                    commit phase of both child class components & then react
+                    updates the DOM in a single phase for both child class
+                    components & then 1st child class componentDidMount will be
+                    called & then 2nd child class componentDidMount will be
+                    called & then parent class componentDidMount will be called.
+                    So this is how the mounting phase of the react lifecycle
+                    methods works.
                   </p>
                   <p>
                     And now let's say we've updated the state variable by

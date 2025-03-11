@@ -95,11 +95,11 @@ const Interview = () => {
                     phase of both child class components. So now react start the
                     lifecycle methods of 1st & 2nd child class components
                     respectively where first child class component constructor
-                    will be called & then first child component render will be
-                    called & then 2nd child class component constructor will be
-                    called & then 2nd child class component render will be
-                    called so this is how the render phase will be completed for
-                    both parent & child class components.
+                    will be called & then first child class component render
+                    will be called & then 2nd child class component constructor
+                    will be called & then 2nd child class component render will
+                    be called so this is how the render phase will be completed
+                    for both parent & child class components.
                   </p>
                   <p>
                     And then react starts the commit phase where it batches the
@@ -114,13 +114,13 @@ const Interview = () => {
                   <p>
                     And now let's say we've updated the state variable by
                     passing the fetched api data as an argument to setState
-                    method within componentdidMount function of 1st child
+                    method within componentDidMount function of 1st child class
                     component then react will start updating phase of 1st child
-                    component where render will be called within render phase &
-                    then react start the commit phase where it will update the
-                    DOM in a single phase & then componentDidUpdate will be
-                    called. So this is how the updating phase of the react
-                    lifecycle methods works.
+                    class component where render will be called within render
+                    phase & then react start the commit phase where it will
+                    update the DOM in a single phase & then componentDidUpdate
+                    will be called. So this is how the updating phase of the
+                    react lifecycle methods works.
                   </p>
                   <p>
                     And now let's say we've left the page and go to another page
@@ -130,7 +130,7 @@ const Interview = () => {
                   </p>
                   <p>
                     So this is how the react lifecycle methods of class based
-                    components work.
+                    components works.
                   </p>
                 </div>
               </div>
@@ -143,12 +143,13 @@ const Interview = () => {
               <div className="collapse-content">
                 <p>
                   A. React hooks are normal javascript function which are given
-                  to us by react and ther're pre-build and the only thing is that
-                  the functions comes with some super powers. That functions had
-                  some return logic written behind the scenes inside react. That
-                  functions are the utility functions given to us by react. So there
-                  are multiple functions that are known as react hooks. For
-                  example: useState, useEffect, useSelector, useDispatch, etc.
+                  to us by react and ther're pre-build and the only thing is
+                  that the functions comes with some super powers. That
+                  functions had some return logic written behind the scenes
+                  inside react. That functions are the utility functions given
+                  to us by react. So there are multiple functions that are known
+                  as react hooks. For example: useState, useEffect, useSelector,
+                  useDispatch, etc.
                 </p>
               </div>
             </div>

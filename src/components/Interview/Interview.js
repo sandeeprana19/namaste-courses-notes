@@ -142,11 +142,11 @@ const Interview = () => {
               </div>
               <div className="collapse-content">
                 <p>
-                  A. React hooks is a normal javascript function which is given
-                  to us by react and it is pre-build and the only thing is that
-                  the function comes with some super powers. That function had
+                  A. React hooks are normal javascript function which are given
+                  to us by react and ther're pre-build and the only thing is that
+                  the functions comes with some super powers. That functions had
                   some return logic written behind the scenes inside react. That
-                  function is a utility function given to us by react. So there
+                  functions are the utility functions given to us by react. So there
                   are multiple functions that are known as react hooks. For
                   example: useState, useEffect, useSelector, useDispatch, etc.
                 </p>

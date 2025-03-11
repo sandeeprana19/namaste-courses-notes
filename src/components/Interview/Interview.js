@@ -98,7 +98,7 @@ const Interview = () => {
                     will be called & then first child class component render
                     will be called & then 2nd child class component constructor
                     will be called & then 2nd child class component render will
-                    be called so this is how the render phase will be completed
+                    be called. So this is how the render phase will be completed
                     for both parent & child class components.
                   </p>
                   <p>

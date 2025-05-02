@@ -172,10 +172,10 @@ const Interview = () => {
               </div>
               <div className="collapse-content">
                 <p>
-                  A. An useEffect has its own specific function. So first of
-                  all, it needed to be imported as named import from react
-                  library. So useEffect is again a function so we’ll call it
-                  like a function which takes two arguments so the first
+                  A. An useEffect hook has its own specific function. So first
+                  of all, it needed to be imported as named import from react
+                  library. So useEffect hook is again a function so we’ll call
+                  it like a function which takes two arguments so the first
                   argument is an arrow function which is a callback function and
                   the second argument is a dependency array.
                 </p>

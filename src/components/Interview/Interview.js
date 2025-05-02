@@ -143,7 +143,7 @@ const Interview = () => {
               <div className="collapse-content">
                 <p>
                   A. React hooks are normal javascript function which are given
-                  to us by react and ther're pre-build and the only thing is
+                  to us by react and they're pre-build and the only thing is
                   that the functions comes with some super powers. That
                   functions had some return logic written behind the scenes
                   inside react. That functions are the utility functions given
@@ -160,8 +160,8 @@ const Interview = () => {
               </div>
               <div className="collapse-content">
                 <p>
-                  A. The useState() hook basically gives us or generates super
-                  powerful state variables in react.
+                  A. The useState() hook basically generates super powerful
+                  state variables in react.
                 </p>
               </div>
             </div>
@@ -173,11 +173,11 @@ const Interview = () => {
               <div className="collapse-content">
                 <p>
                   A. An useEffect has its own specific function. So first of
-                  all, we’ll import it as named import from the react library.
-                  So useEffect is again a function so we’ll call it like a
-                  function which takes two arguments so the first argument is an
-                  arrow function which is a callback function and the second
-                  argument is a dependency array.
+                  all, it needed to be imported as named import from react
+                  library. So useEffect is again a function so we’ll call it
+                  like a function which takes two arguments so the first
+                  argument is an arrow function which is a callback function and
+                  the second argument is a dependency array.
                 </p>
               </div>
             </div>
@@ -218,7 +218,7 @@ const Interview = () => {
                 <p>
                   A. Reconciliation algorithm is also known as React Fiber since
                   the release of React 16. So let’s say we’ve a UI of top rated
-                  restaurant button and restaurant container which contain 10
+                  restaurant button and restaurants container which contain 10
                   restaurant cards so whenever react render this UI it will
                   create the virtual DOM which is actually the representation of
                   actual dom & then react keep this virtual DOM with it. And

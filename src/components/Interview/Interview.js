@@ -144,12 +144,12 @@ const Interview = () => {
                 <p>
                   A. React hooks are normal javascript function which are given
                   to us by react and they're pre-build and the only thing is
-                  that the functions comes with some super powers. That
+                  that those functions comes with some super powers. Those
                   functions had some return logic written behind the scenes
-                  inside react. That functions are the utility functions given
-                  to us by react. So there are multiple functions that are known
-                  as react hooks. For example: useState, useEffect, useSelector,
-                  useDispatch, etc.
+                  inside react. Those functions are the utility functions given
+                  to us by react. So there are multiple utility functions that
+                  are known as react hooks. For example: useState, useEffect,
+                  useSelector, useDispatch, etc.
                 </p>
               </div>
             </div>

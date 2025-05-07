@@ -6,6 +6,7 @@ const Interview = () => {
       <div className="flex flex-col gap-y-5">
         <div className="flex flex-col gap-y-4">
           <h1 className="text-2xl font-bold text-white">React Q&A</h1>
+          <h2 className="text-xl font-bold text-white">Asked in Others</h2>
           <div className="flex flex-col gap-y-4">
             <div className="collapse collapse-arrow bg-base-200">
               <input type="radio" name="interview" defaultChecked />
@@ -237,6 +238,112 @@ const Interview = () => {
                   this is the core job of react. So this whole algorithm is
                   known as a reconciliation algorithm.
                 </p>
+              </div>
+            </div>
+          </div>
+          <h2 className="text-xl font-bold text-white">Asked in TCS</h2>
+          <div className="flex flex-col gap-y-4">
+            <div className="collapse collapse-arrow bg-base-200">
+              <input type="radio" name="interview" />
+              <div className="collapse-title text-xl font-medium">
+                1. In case of complex data management what shall we use
+                useContext or Redux?
+              </div>
+              <div className="collapse-content">
+                <div className="flex flex-col gap-y-2">
+                  <p>
+                    A. So we shall use Redux in case of complex data management.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="collapse collapse-arrow bg-base-200">
+              <input type="radio" name="interview" />
+              <div className="collapse-title text-xl font-medium">
+                2. Name the different types of react hooks?
+              </div>
+              <div className="collapse-content">
+                <div className="flex flex-col gap-y-2">
+                  <p>
+                    A. useState, useEffect, useSelector, useDispatch, etc. are
+                    the different types of react hooks.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="collapse collapse-arrow bg-base-200">
+              <input type="radio" name="interview" />
+              <div className="collapse-title text-xl font-medium">
+                3. What is react class based component & react functional
+                component?
+              </div>
+              <div className="collapse-content">
+                <div className="flex flex-col gap-y-2">
+                  <p>
+                    A. React class based component is the older way of creating
+                    component in react. And it's a normal javascript class.
+                  </p>
+                  <p>
+                    React functional component is just a normal javascript
+                    function which return jsx code or react element and not just
+                    react element it can return a branch of react elements and
+                    that's all is react functional component. So whenever we
+                    create any react functional component create with a capital
+                    letter otherwise we'll get an error because it's a react way
+                    to understand that this is a component.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="collapse collapse-arrow bg-base-200">
+              <input type="radio" name="interview" />
+              <div className="collapse-title text-xl font-medium">
+                4. Where can we use async await in react?
+              </div>
+              <div className="collapse-content">
+                <div className="flex flex-col gap-y-2">
+                  <p>
+                    A. So we can write async keyword before an arrow function
+                    let say fetchData to make it async & then we'll write await
+                    before fetch() which will await for data to come. And then
+                    we'll call this fetchData arrow function inside 1st argument
+                    of useEffect which is the callback function because this is
+                    best place to make an api call in react.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="collapse collapse-arrow bg-base-200">
+              <input type="radio" name="interview" />
+              <div className="collapse-title text-xl font-medium">
+                5. How can we do code splitting in react?
+              </div>
+              <div className="collapse-content">
+                <div className="flex flex-col gap-y-2">
+                  <p>
+                    A. The ways to do code splitting in react: 1. Using lazy()
+                    and Suspense. 2. Code splitting with react router. 3.
+                    Dynamic Imports with import(). 4. Webpack import() for
+                    Manual Code Splitting. 5. Using a Bundler like Vite or
+                    Webpack.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="collapse collapse-arrow bg-base-200">
+              <input type="radio" name="interview" />
+              <div className="collapse-title text-xl font-medium">
+                6. Define Error Boundaries?
+              </div>
+              <div className="collapse-content">
+                <div className="flex flex-col gap-y-2">
+                  <p>
+                    A. Error Boundaries are components that catch JavaScript
+                    errors anywhere in their child component tree, log those
+                    errors, and display a fallback UI instead of crashing the
+                    entire component tree.
+                  </p>
+                </div>
               </div>
             </div>
           </div>

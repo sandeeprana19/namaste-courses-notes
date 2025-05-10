@@ -333,15 +333,15 @@ const Interview = () => {
             <div className="collapse collapse-arrow bg-base-200">
               <input type="radio" name="interview" />
               <div className="collapse-title text-xl font-medium">
-                6. Define Error Boundaries?
+                6. Define Error Boundary?
               </div>
               <div className="collapse-content">
                 <div className="flex flex-col gap-y-2">
                   <p>
-                    A. Error Boundaries are components that catch JavaScript
+                    A. Error Boundary is the special components that catches JavaScript
                     errors anywhere in their child component tree, log those
-                    errors, and display a fallback UI instead of crashing the
-                    entire component tree.
+                    errors and display a fallback UI instead of crashing the
+                    entire app.
                   </p>
                 </div>
               </div>

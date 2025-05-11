@@ -2,8 +2,8 @@ import React from "react";
 
 const NamasteJavascript = () => {
   return (
-    <div className="lg:w-6/12 w-full mx-auto flex flex-wrap gap-y-4 px-4 lg:px-0">
-      <div className="collapse collapse-arrow bg-base-200">
+    <div className="lg:w-7/12 w-full mx-auto flex flex-wrap gap-y-4 px-4 lg:px-0">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" defaultChecked />
         <div className="collapse-title text-xl font-medium">
           1. What is the first core fundamental in JavaScript?
@@ -14,7 +14,7 @@ const NamasteJavascript = () => {
           </p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium">
           2. Define execution context?
@@ -38,7 +38,7 @@ const NamasteJavascript = () => {
           </ol>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium">
           3. Define JavaScript?
@@ -57,7 +57,7 @@ const NamasteJavascript = () => {
           </p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium">
           <div className="flex items-start">
@@ -105,1449 +105,1449 @@ const NamasteJavascript = () => {
           </p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">
           <p></p>
         </div>
       </div>
-      <div className="collapse collapse-arrow bg-base-200">
+      <div className="collapse collapse-plus bg-base-200">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium"></div>
         <div className="collapse-content">

@@ -57,7 +57,7 @@ const NamasteJavascript = () => {
           </p>
         </div>
       </div>
-      <div className="collapse collapse-plus bg-base-200">
+      <div className="collapse collapse-plus bg-base-200 overflow-x-auto">
         <input type="radio" name="namaste-javascript" />
         <div className="collapse-title text-xl font-medium">
           <div className="flex items-start">

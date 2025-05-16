@@ -5,13 +5,13 @@ const JavaScript = () => {
         <div className="flex flex-col gap-y-4">
           <h1 className="text-2xl font-bold text-white">JavaScript Q&A</h1>
           <div className="flex flex-col gap-y-4">
-            <div className="collapse collapse-plus bg-base-200">
+            <div className="collapse collapse-plus bg-base-200 overflow-x-auto">
               <input type="radio" name="interview" />
               <div className="collapse-title text-xl font-medium">
                 1. Find missing elements like 3 and 9 into this array: let arr =
                 [1,2,4,5,6,7,8,10]?
               </div>
-              <div className="collapse-content overflow-x-auto">
+              <div className="collapse-content">
                 <div className="flex items-start">
                   <p>A.</p>
                   <pre className="relative bottom-[1.4375rem] right-[10.625rem]">
@@ -93,7 +93,7 @@ const JavaScript = () => {
                 </div>
               </div>
             </div>
-            <div className="collapse collapse-plus bg-base-200">
+            <div className="collapse collapse-plus bg-base-200 overflow-x-auto">
               <input type="radio" name="interview" />
               <div className="collapse-title text-xl font-medium">
                 4. What is the difference between window.onload and

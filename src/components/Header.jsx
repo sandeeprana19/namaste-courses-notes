@@ -5,9 +5,12 @@ const Header = () => {
   return (
     <header className="lg:py-3 px-2 lg:px-0 shadow-[0rem_0.3125rem_0.625rem_0rem_rgba(0,0,0,0.3)] fixed top-0 start-0 w-full z-50 bg-[#191e24] box-border h-20 lg:h-auto">
       <div className="lg:w-7/12 w-full mx-auto flex items-center h-full">
-        <div className="w-12 lg:w-16 flex items-center justify-center absolute left-1/2 -translate-x-1/2 lg:relative lg:left-0 lg:translate-0">
+        <Link
+          to="/"
+          className="w-12 lg:w-16 flex items-center justify-center absolute left-1/2 -translate-x-1/2 lg:relative lg:left-0 lg:translate-0"
+        >
           <img src={Logo} alt="Logo" className="w-full h-full object-cover" />
-        </div>
+        </Link>
         <div className="navbar p-0 justify-between h-full">
           <div className="navbar-start w-auto">
             <div className="dropdown">

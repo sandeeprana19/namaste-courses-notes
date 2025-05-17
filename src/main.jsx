@@ -3,18 +3,15 @@ import { createRoot } from "react-dom/client";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import "./index.css";
 import App from "./App";
+import Error from "./components/Error";
 
 const NamasteJavascript = lazy(() =>
-  import("./components/NamasteJavascript/NamasteJavascript")
+  import("./components/Courses/NamasteJavascript")
 );
-const NamasteReact = lazy(() =>
-  import("./components/NamasteReact/NamasteReact")
-);
-const React = lazy(() => import("./components/Interview/React/React"));
-const JavaScript = lazy(() =>
-  import("./components/Interview/JavaScript/JavaScript")
-);
-const Html = lazy(() => import("./components/Interview/Html/Html"));
+const NamasteReact = lazy(() => import("./components/Courses/NamasteReact"));
+const React = lazy(() => import("./components/Interview/React"));
+const JavaScript = lazy(() => import("./components/Interview/JavaScript"));
+const Html = lazy(() => import("./components/Interview/Html"));
 
 const appRouter = createBrowserRouter([
   {
@@ -62,6 +59,7 @@ const appRouter = createBrowserRouter([
         ),
       },
     ],
+    errorElement: <Error />,
   },
 ]);
 
